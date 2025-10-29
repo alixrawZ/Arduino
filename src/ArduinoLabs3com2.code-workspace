@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../ArduinoLabs3com2"
+		},
+		{
+			"name": "Arduinolabs",
+			"path": ".."
+		},
+		{
+			"name": "ArduinoLaps",
+			"path": "../../ArduinoLaps"
+		}
+	],
+	"settings": {}
+}
